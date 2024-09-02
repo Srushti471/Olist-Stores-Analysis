@@ -81,6 +81,30 @@ Informing partners to stock top category products to reduce waiting period.
 Plan marketing activities to retain customers, which will result in developing loyal customers and increase in revenue generation.
 
 
+## Power BI Dashboard for Olist Stores Project
+
+This is the final dashboard which provides a comprehensive overview of sales performance and customer insights for Olist Stores. 
+It includes key visualizations such as:
+
+-Sales Trends: Line charts showing monthly sales growth and seasonality.
+
+- Top Products and Categories: Bar charts highlighting best-selling products and categories.
+
+- Customer Segmentation: Pie charts and tables displaying customer distribution by region and order status.
+
+- Order Insights: Visuals showing order volume, average order value, and delivery times.
+
+- The dashboard is interactive, allowing users to filter and drill down for deeper insights into sales performance, customer behavior, and product analysis. It helps in making data-driven decisions to improve sales strategies and customer experience.
+
+
+
+
+
+
+
+
+![Screenshot (56)](https://github.com/user-attachments/assets/5f8227ff-bb63-4ed8-9aec-30858652364e)
+
 
 
 
